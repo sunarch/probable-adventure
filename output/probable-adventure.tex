@@ -12,3 +12,30 @@
 %
 % You should have received a copy of the GNU General Public License
 % along with 'Probable Adventure'.  If not, see <http://www.gnu.org/licenses/>.
+
+\documentclass[12pt,a4paper]{book}
+
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+
+\usepackage{import}
+\usepackage{graphicx}
+\usepackage[left=2.50cm, right=2.50cm, top=2.50cm, bottom=2.50cm]{geometry}
+\usepackage[english]{babel}
+
+\author{András Németh}
+\title{Probable Adventure}
+
+\begin{document}
+
+\frontmatter
+\maketitle
+
+\tableofcontents
+
+\mainmatter
+
+\subimport{./}{chapter-sample.tex}
+%\subimport{./generated/}{chapter-01.tex}
+
+\end{document}
