@@ -2,7 +2,7 @@
 
 Novel generation program for the NaNoGenMo (National Novel Generation Month).
 
-Fun fact: the name of the repo (probable-adventure) was the first random one GitHub offered when I created the repo for the project.
+_Fun fact:_ The name of the repository (probable-adventure) was the first random one GitHub offered when I created the project.
 
 ### National Novel Generation Month, 2016 edition.
 
