@@ -1,4 +1,4 @@
-# probable-adventure
+# Probable Adventure
 
 Novel generation program for the NaNoGenMo (National Novel Generation Month).
 
