@@ -54,7 +54,7 @@ def format_name(arg_value):
     return_part = '{"'
     return_part += KEYNAME_NAME
     return_part += '": "'
-    return_part += arg_value
+    return_part += arg_value.capitalize()
     return_part += '",'
     return return_part
 
