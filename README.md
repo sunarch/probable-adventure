@@ -13,3 +13,6 @@ Main site: [https://github.com/NaNoGenMo/2016](https://github.com/NaNoGenMo/2016
 My entry for Probable Adventure: [https://github.com/NaNoGenMo/2016/issues/65](https://github.com/NaNoGenMo/2016/issues/65)
 
 My entry for a planned side project called "Probable Chaos": [https://github.com/NaNoGenMo/2016/issues/87](https://github.com/NaNoGenMo/2016/issues/87)
+
+### License
+[Mozilla Public License 2.0](https://spdx.org/licenses/MPL-2.0.html)
